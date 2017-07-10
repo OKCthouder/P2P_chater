@@ -26,7 +26,7 @@ b、开发环境：Eclipse
 
 c、JDK版本：1.8
 
-d、操作系统：windows 10
+d、操作系统：windows 10 专业版
 
 ### 2、运行环境：
 
